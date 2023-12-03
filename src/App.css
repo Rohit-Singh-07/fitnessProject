@@ -1,0 +1,43 @@
+.slideImg{
+  width: 100%;
+  height: 78vh;
+}
+
+.getStarted{
+  margin-top: 15vh;
+  margin-left: 12vw;
+}
+
+.takeQuiz{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: larger;
+  width: 60vw;
+  margin-top: 10vw;
+  margin-left: 20vw;
+}
+
+.takeQuizHead{
+  font-size: 5vw;
+}
+
+.phonePic{
+  width: 80vw;
+}
+
+.subFooter1{
+  width: 30vw;
+}
+
+.footerImg{
+  height: 50vh;
+}
+
+.mainFooter{
+  margin-top: 25vh;
+}
+
+.trackImg{
+  width: 42vw;
+}
